@@ -3,11 +3,7 @@
 Language: Python
 
 
-Requerments:
 
-<b> Language:</b> Python
-<br>
-<br>
 <h3>Requerments:</h3>
 <br>
 Python 3.7 or Higher
